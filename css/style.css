@@ -1,0 +1,120 @@
+input[type=number] {
+    width: 100%;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+	font-size:18px;
+}
+input[type=submit] {
+    width: 90%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+body{
+	margin:0 auto;
+	padding:0;
+	height:100%;
+	background-color:white;
+}
+.content{
+	width: 600px;
+    background-color: #E8E8FF;
+    margin: 0 auto;
+    height: 100%;
+    border: 3px;
+    border-color: grey;
+    border-style: solid;
+}
+.over{
+	overflow: hidden;
+}
+.Header{
+	top:0;
+	height:50px;
+	background-color:cadetblue;
+}
+.Header p{
+	    text-align: center;
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0;
+    padding-top: 0px;
+}
+.KnapsackBody{
+	min-height:450px;
+}
+.KnapIndex1{
+	margin-top: 85px;
+    margin-left: 55px;
+}
+.KnapIndex1 form{
+	margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+}
+.KnapIndex1 form table{
+	
+}
+.KnapIndex1 form table tr{
+	
+}
+.KnapIndex1 form table tr td{
+	font-size:20px;
+	margin-top:10px;
+	padding-top:10px;
+}
+.KnapsackBody{
+	min-height:450px;
+}
+.KnapIndex2{
+	margin-top: -30px;
+    margin-left: 10%;
+    margin-right: 0%;
+}
+.KnapIndex2 form{
+	margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+}
+.KnapIndex2 form table{
+	
+}
+.KnapIndex2 form table tr{
+	
+}
+.KnapIndex2 form table tr td{
+	font-size:20px;
+	margin-top:10px;
+	padding-top:10px;
+}
+.KnapIndex3{
+	margin-top: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.Footer{
+	bottom:0;
+	height:40px;
+	background-color:lightgreen;
+}
+.Footer p{
+	text-align: center;
+    color: green;
+    margin: 0px;
+    padding-top: 9px;
+    font-size: 20px;
+    font-family: fantasy;
+}
